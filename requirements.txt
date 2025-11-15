@@ -1,0 +1,14 @@
+PyMuPDF
+pytesseract
+pdf2image
+opencv-python
+numpy
+Pillow
+fpdf
+langchain==0.2.0
+langchain-core
+langchain-community
+faiss-cpu
+sentence-transformers
+google-generativeai
+python-dotenv
